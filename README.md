@@ -2,6 +2,14 @@
 
 A complete end-to-end Machine Learning project to predict customer churn in the telecom industry. Built to demonstrate full-stack ML skills including data processing, model training, and web deployment.
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-pre-5x38sey3betrfbzexjq4ii.streamlit.app/)
+
+**👉 [Try the Live Demo](https://customer-churn-pre-5x38sey3betrfbzexjq4ii.streamlit.app/)**
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
