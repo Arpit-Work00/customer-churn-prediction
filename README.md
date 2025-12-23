@@ -24,9 +24,7 @@ A complete end-to-end Machine Learning project to predict customer churn in the 
 - [How to Run](#-how-to-run)
 - [Dataset](#-dataset)
 - [Model Performance](#-model-performance)
-- [Screenshots](#-screenshots)
 - [Future Improvements](#-future-improvements)
-- [Author](#-author)
 
 ## 🎯 Project Overview
 
