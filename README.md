@@ -13,7 +13,6 @@ A complete end-to-end Machine Learning project to predict customer churn in the 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
