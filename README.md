@@ -167,17 +167,6 @@ Four machine learning models were trained and compared:
 3. **Electronic check** payment method correlates with higher churn
 4. Customers without **security/support services** churn more
 
-## 📸 Screenshots
-
-### Home Page
-The landing page introduces the churn prediction system.
-
-### Dashboard
-Interactive analytics dashboard with Plotly charts.
-
-### Prediction Page
-Enter customer details and get instant churn predictions with recommendations.
-
 ## 🔮 Future Improvements
 
 1. **Deep Learning**: Implement neural network for comparison
@@ -196,11 +185,5 @@ Enter customer details and get instant churn predictions with recommendations.
 ## 👨‍💻 Author
 
 This project demonstrates end-to-end Machine Learning skills including data processing, model training, evaluation, and deployment.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
